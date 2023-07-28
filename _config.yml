@@ -1,7 +1,3 @@
-theme: dark-poole
-title: setmy.info
-description: Software components
-#show_downloads: true
-#github:
-#  zip_url: http://example.com/download.zip
-#  another_url: another value
+theme: jekyll-theme-dark-poole
+title: Demo
+description: Demo site

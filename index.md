@@ -10,7 +10,6 @@ excellent at delivering content.
 ## About, Further
 This second section demonstrates spacing. CSS is kept to a minimum with minor styling
 for site colours and spacing. prism.js is used for code styling.    
-<br>
 Here's a new paragraph for you.  
 
 ## Features
